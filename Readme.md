@@ -12,6 +12,7 @@
       most inefficient and awkward ways imaginable!
   
   Features:
+  
       1. Can manage many simultaneous connections
       2. Allows users to custom build URI requests
       3. Logs all responses in temporary output.html files
@@ -19,6 +20,7 @@
       5. Cleans up temporary files on exit
       
   How To:
+  
       1. Open command prompt
       2. git clone <repo>
       3. cd <repo>
